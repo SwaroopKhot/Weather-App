@@ -1,2 +1,6 @@
 # Weather-App
-Android Development with Python(Kivy) | MAPVIEW | Matplotlib Graphs | 
+Android Development with Python(Kivy) | MAPVIEW | Matplotlib Graphs 
+
+#
+### Description of Application:
+
